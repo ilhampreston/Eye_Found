@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "735789371511",
+    "firebase_url": "https://eyefound-3be59.firebaseio.com",
+    "project_id": "eyefound-3be59",
+    "storage_bucket": "eyefound-3be59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735789371511:android:d4c44be1c7b73405",
+        "android_client_info": {
+          "package_name": "myapplication.eye_found"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735789371511-6eqec3013j8t1vmf5k6ggbnbrp1vmbtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myapplication.eye_found",
+            "certificate_hash": "28868dde68e8b80f35bf2387e2dcd2421c40aad0"
+          }
+        },
+        {
+          "client_id": "735789371511-8f4d11g4bt2hrv31hivjvbmavcvrbrot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbNWViIeF1GiykK8wtjVVRx93z2U-t-wg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735789371511-8f4d11g4bt2hrv31hivjvbmavcvrbrot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

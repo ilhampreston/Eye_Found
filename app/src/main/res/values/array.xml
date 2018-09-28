@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="media_array">
+        <item>Billboard</item>
+        <item>Videotron</item>
+        <item>Dynamic Back Light</item>
+        <item>Sticker</item>
+        <item>Airport Static</item>
+        <item>Airport Digital</item>
+        <item>Station Static</item>
+        <item>Station Digital</item>
+        <item>Street Banner</item>
+        <item>Digital Banner</item>
+    </string-array>
+</resources>
